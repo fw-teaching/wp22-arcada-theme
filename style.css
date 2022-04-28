@@ -1,0 +1,14 @@
+/*
+Theme Name: Our child theme
+Theme URI: https://example.com
+description: Our awesome theme.
+Author: Arcada
+Author URI: https://arcada.fi
+Template: generatepress
+Version: 2022.4.19
+Text Domain: arcada-child-theme
+*/
+
+.entry-title a {
+    color: navy !important;
+}
